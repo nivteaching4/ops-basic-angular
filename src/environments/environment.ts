@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'https://ec2.nivitzhaky.com/api' 
+  url: backend_url 
 };
 
 
